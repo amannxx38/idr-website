@@ -1,0 +1,22 @@
+<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
+<style>
+.text{font-family:Arial, Helvetica, sans-serif; font-weight:600;}
+</style>
+
+<!-- Cube Icon -->
+<polygon points="40,20 70,35 70,70 40,85 10,70 10,35"
+fill="#ff6b00"/>
+
+<line x1="40" y1="20" x2="40" y2="50" stroke="#ffffff" stroke-width="3"/>
+<line x1="10" y1="35" x2="40" y2="50" stroke="#ffffff" stroke-width="3"/>
+<line x1="70" y1="35" x2="40" y2="50" stroke="#ffffff" stroke-width="3"/>
+
+<!-- Text -->
+<text x="100" y="55" font-size="22" class="text" fill="#000">
+Institute of
+</text>
+
+<text x="100" y="85" font-size="26" class="text" fill="#ff6b00">
+Digital Risk
+</text>
+</svg>
